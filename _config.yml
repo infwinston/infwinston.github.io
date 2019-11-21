@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei-Lin Chiang"
 title_separator          : "-"
 name                     : &name "Wei-Lin Chiang"
-description              : &description "Master student at National Taiwan University"
+description              : &description "Master's student, Department of Computer Science, National Taiwan University"
 url                      : https://infwinston.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "infwinston.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Wei-Lin Chiang"
   avatar           : "profile.png"
   bio              : "Master student at National Taiwan University"
-  location         : "Taipei"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=87nZphcAAAAJ&hl=en"
-  email            :
+  email            : "r06922166@csie.ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
