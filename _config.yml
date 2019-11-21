@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wei-Lin Chiang"
 title_separator          : "-"
 name                     : &name "Wei-Lin Chiang"
 description              : &description "Master student at National Taiwan University"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wei-lin-chiang-51b025b2/"
   orcid            : 
   pinterest        :
   soundcloud       :
