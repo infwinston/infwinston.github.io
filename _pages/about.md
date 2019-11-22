@@ -12,7 +12,7 @@ Welcome to my page!
 
 * I am a Masters student in the Department of Computer Science at National Taiwan University, advised by Prof. [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/).
 * My research interests include optimization for machine learning, data mining, scalable ML algorithms and its system design.
-* I enjoy developing ML [softwares](#Softwares) and I am always happy to learn how it is being used! Email me if you have questions or find our softwares useful.
+* I enjoy developing ML [softwares](#softwares) and I am always happy to learn how it is being used! Email me if you have questions or find our softwares useful.
 
 ## Working Experience
 
