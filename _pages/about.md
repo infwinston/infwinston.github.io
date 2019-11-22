@@ -14,23 +14,23 @@ Welcome to my page!
 
 ## Working Experience
 
-- **Intern@Google Research**, Mountain View (Dec. 2018 - Mar. 2019)  
+- **Intern@Google Research**, *Mountain View* (Dec. 2018 - Mar. 2019)  
   Developing efficient algorithms for training large and deep GCN models
-- **Intern@Alibaba Group**, Hangzhou (July 2017 - Sept. 2017)  
+- **Intern@Alibaba Group**, *Hangzhou* (July 2017 - Sept. 2017)  
   Developing distributed ML algorithms on Alibaba’s parameter server (KunPeng)
-- **Intern@Microsoft Research Asia**, Beijing (Dec. 2016 - Feb. 2017)  
+- **Intern@Microsoft Research Asia**, *Beijing* (Dec. 2016 - Feb. 2017)  
   Investigating distributed training methods on deep learning frameworks
-- **Intern@Microsoft**, Redmond (July 2016 - Oct. 2016)  
+- **Intern@Microsoft**, *Redmond* (July 2016 - Oct. 2016)  
   Developing large-scale ML algorithms on Microsoft’s distributed platform (REEF)
 
 ## Publications
 
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953) [[code](https://github.com/google-research/google-research/tree/master/cluster_gcn), [dataset (Amazon2M)](http://web.cs.ucla.edu/~chohsieh/data/Amazon2M.tar.gz)]  
   **Wei-Lin Chiang**, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, and Cho-Jui Hsieh.  
-  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019.*  
+  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019 (**Oral**)*  
 - [Preconditioned Conjugate Gradient Methods in Truncated Newton Frameworks for Large-scale Linear Classification](http://proceedings.mlr.press/v95/hsia18a.html) [[supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/tron_pcg/). Implementation available in [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) after version 2.20.]  
   Chih-Yang Hsia, **Wei-Lin Chiang**, and Chih-Jen Lin.  
-  *Asian Conference on Machine Learning (ACML), 2018* (**best paper award**)  
+  *Asian Conference on Machine Learning (ACML), 2018 (**Best paper award**)*   
 - [Limited-memory Common-directions Method for Distributed L1-regularized Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/OWL-commdir.pdf) [[supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/). Implementation available in [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/).]  
   **Wei-Lin Chiang**, Yu-Sheng Li, Ching-pei Lee, and Chih-Jen Lin.  
   *SIAM International Conference on Data Mining (SDM), 2018*  
