@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page!
+Welcome to Wei-Lin Chiang's page!
 
 * I am a Masters student in the Department of Computer Science at National Taiwan University, advised by Prof. [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/).
 * My research interests include optimization for machine learning, data mining, scalable ML algorithms and its system design.
