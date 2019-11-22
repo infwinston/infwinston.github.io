@@ -26,7 +26,7 @@ Welcome to Wei-Lin Chiang's page!
 - **Intern@Microsoft**, *Redmond* (July 2016 - Oct. 2016)  
   Developing large-scale ML algorithms on Microsoft’s distributed platform ([REEF](https://reef.apache.org/))
 
-## Publications
+## Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=87nZphcAAAAJ&hl=en))
 
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953) [[code](https://github.com/google-research/google-research/tree/master/cluster_gcn), [dataset (Amazon2M)](http://web.cs.ucla.edu/~chohsieh/data/Amazon2M.tar.gz)]  
   **Wei-Lin Chiang**, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, and Cho-Jui Hsieh.  
