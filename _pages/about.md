@@ -12,12 +12,25 @@ Welcome to my page!
 
 * I am a Masters student in the Department of Computer Science at National Taiwan University, advised by Prof. [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/).
 
+## Working Experience
+
+**Intern@Google Research**, Mountain View (Dec. 2018 - Mar. 2019)
+  - Developing efficient algorithms for training large and deep GCN models
+
+**Intern@Alibaba Group**, Hangzhou (July 2017 - Sept. 2017)
+  - Developing distributed ML algorithms on Alibaba’s parameter server (KunPeng)
+
+**Intern@Microsoft Research Asia**, Beijing (Dec. 2016 - Feb. 2017)
+  - Investigating distributed training methods on deep learning frameworks
+  
+**Research Intern@Microsoft**, Redmond (July 2016 - Oct. 2016)
+  - Developing large-scale ML algorithms on Microsoft’s distributed platform (REEF)
 
 ## Publications
 
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953)  
   **Wei-Lin Chiang**, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, and Cho-Jui Hsieh.  
-  *ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (KDD), 2019.*
+  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019.*
 - [Preconditioned Conjugate Gradient Methods in Truncated Newton Frameworks for Large-scale Linear Classification](http://proceedings.mlr.press/v95/hsia18a.html)  
   Chih-Yang Hsia, **Wei-Lin Chiang**, and Chih-Jen Lin.  
   *Asian Conference on Machine Learning (ACML), 2018* (**best paper award**)
@@ -26,7 +39,7 @@ Welcome to my page!
   *SIAM International Conference on Data Mining (SDM), 2018*
 - [Parallel Dual Coordinate Descent Method for Large-scale Linear Classification in Multi-core Environments](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_cddual.pdf)  
   **Wei-Lin Chiang**, Mu-Chu Lee, and Chih-Jen Lin.  
-  *ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (KDD), 2016*
+  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2016*
 - [Fast Matrix-vector Multiplications for Large-scale Logistic Regression on Shared-memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_liblinear_icdm.pdf)  
   Mu-Chu Lee, **Wei-Lin Chiang**, and Chih-Jen Lin.  
   *IEEE International Conference on Data Mining (ICDM), 2015*
