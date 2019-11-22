@@ -44,11 +44,11 @@ Welcome to my page!
 ## Softwares
 
 - [Cluster-GCN](https://github.com/google-research/google-research/tree/master/cluster_gcn)  
-  TensorFlow implementation of an efficient algorithm for large (million-scale) and deep GCN models  
+  TensorFlow implementation of an efficient algorithm for large (million-scale) and deep GCN  
   Achieved state-of-the-art performance on some public datasets (e.g., PPI, Reddit)
 - [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/)  
   Distributed extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
   Developed L1-regularized LR solver for solving large (billion-scale) tasks
 - [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/)  
   Multi-core extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
-  Developed efficient parallel algorithms for solving primal and dual problems
+  Developed efficient parallel algorithms for primal and dual solvers
