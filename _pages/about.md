@@ -40,3 +40,15 @@ Welcome to my page!
 - [Fast Matrix-vector Multiplications for Large-scale Logistic Regression on Shared-memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_liblinear_icdm.pdf) [[supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp_code.zip). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).]  
   Mu-Chu Lee, **Wei-Lin Chiang**, and Chih-Jen Lin.  
   *IEEE International Conference on Data Mining (ICDM), 2015*  
+
+## Softwares
+
+- [Cluster-GCN](https://github.com/google-research/google-research/tree/master/cluster_gcn)  
+  TensorFlow implementation of an efficient algorithm for large (million-scale) and deep GCN models  
+  Achieved state-of-the-art performance on some public datasets (e.g., PPI, Reddit)
+- [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/)  
+  Distributed extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
+  Developed L1-regularized LR solver for solving large (billion-scale) tasks
+- [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/)  
+  Multi-core extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
+  Developed efficient parallel algorithms for solving primal and dual problems
