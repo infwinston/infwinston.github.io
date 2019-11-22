@@ -14,17 +14,14 @@ Welcome to my page!
 
 ## Working Experience
 
-**Intern@Google Research**, Mountain View (Dec. 2018 - Mar. 2019)
-  - Developing efficient algorithms for training large and deep GCN models
-
-**Intern@Alibaba Group**, Hangzhou (July 2017 - Sept. 2017)
-  - Developing distributed ML algorithms on Alibaba’s parameter server (KunPeng)
-
-**Intern@Microsoft Research Asia**, Beijing (Dec. 2016 - Feb. 2017)
-  - Investigating distributed training methods on deep learning frameworks
-  
-**Research Intern@Microsoft**, Redmond (July 2016 - Oct. 2016)
-  - Developing large-scale ML algorithms on Microsoft’s distributed platform (REEF)
+- **Intern@Google Research**, Mountain View (Dec. 2018 - Mar. 2019)  
+  Developing efficient algorithms for training large and deep GCN models
+- **Intern@Alibaba Group**, Hangzhou (July 2017 - Sept. 2017)  
+  Developing distributed ML algorithms on Alibaba’s parameter server (KunPeng)
+- **Intern@Microsoft Research Asia**, Beijing (Dec. 2016 - Feb. 2017)  
+  Investigating distributed training methods on deep learning frameworks
+- **Research Intern@Microsoft**, Redmond (July 2016 - Oct. 2016)  
+  Developing large-scale ML algorithms on Microsoft’s distributed platform (REEF)
 
 ## Publications
 
