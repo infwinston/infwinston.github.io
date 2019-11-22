@@ -20,23 +20,28 @@ Welcome to my page!
   Developing distributed ML algorithms on Alibaba’s parameter server (KunPeng)
 - **Intern@Microsoft Research Asia**, Beijing (Dec. 2016 - Feb. 2017)  
   Investigating distributed training methods on deep learning frameworks
-- **Research Intern@Microsoft**, Redmond (July 2016 - Oct. 2016)  
+- **Intern@Microsoft**, Redmond (July 2016 - Oct. 2016)  
   Developing large-scale ML algorithms on Microsoft’s distributed platform (REEF)
 
 ## Publications
 
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953)  
   **Wei-Lin Chiang**, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, and Cho-Jui Hsieh.  
-  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019.*
+  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019.*  
+  [code](https://github.com/google-research/google-research/tree/master/cluster_gcn), [dataset (Amazon2M)](http://web.cs.ucla.edu/~chohsieh/data/Amazon2M.tar.gz)
 - [Preconditioned Conjugate Gradient Methods in Truncated Newton Frameworks for Large-scale Linear Classification](http://proceedings.mlr.press/v95/hsia18a.html)  
   Chih-Yang Hsia, **Wei-Lin Chiang**, and Chih-Jen Lin.  
-  *Asian Conference on Machine Learning (ACML), 2018* (**best paper award**)
+  *Asian Conference on Machine Learning (ACML), 2018* (**best paper award**)  
+  [supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/tron_pcg/). Implementation available in [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) after version 2.20.
 - [Limited-memory Common-directions Method for Distributed L1-regularized Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/OWL-commdir.pdf)  
   **Wei-Lin Chiang**, Yu-Sheng Li, Ching-pei Lee, and Chih-Jen Lin.  
-  *SIAM International Conference on Data Mining (SDM), 2018*
+  *SIAM International Conference on Data Mining (SDM), 2018*  
+  [supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/). Implementation available in [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/).
 - [Parallel Dual Coordinate Descent Method for Large-scale Linear Classification in Multi-core Environments](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_cddual.pdf)  
   **Wei-Lin Chiang**, Mu-Chu Lee, and Chih-Jen Lin.  
-  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2016*
+  *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2016*  
+  [supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/multicore_cddual_supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp-code.tar.gz). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).
 - [Fast Matrix-vector Multiplications for Large-scale Logistic Regression on Shared-memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_liblinear_icdm.pdf)  
   Mu-Chu Lee, **Wei-Lin Chiang**, and Chih-Jen Lin.  
-  *IEEE International Conference on Data Mining (ICDM), 2015*
+  *IEEE International Conference on Data Mining (ICDM), 2015*  
+  [supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp_code.zip). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).
