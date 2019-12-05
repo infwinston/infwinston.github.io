@@ -15,7 +15,7 @@ Welcome to Wei-Lin Chiang's page!
 * I enjoy developing ML softwares and I am always happy to learn how it is being used! Email me if you have questions or find [our softwares](#softwares) useful.
 * More details can be found in my [CV](https://infwinston.github.io/files/docs/CV.pdf).
 
-## Working Experience
+## Work Experience
 
 - **Intern@Google Research**, *Mountain View* (Dec. 2018 - Mar. 2019)  
   Developing efficient algorithms for training large and deep GCN models
