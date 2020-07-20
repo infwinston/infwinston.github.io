@@ -28,6 +28,9 @@ Welcome to Wei-Lin Chiang's page!
 
 ## Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=87nZphcAAAAJ&hl=en))
 
+- [Manifold Identification for Ultimately Communication-Efficient Distributed Optimization](http://www.optimization-online.org/DB_HTML/2020/06/7833.html)  
+  Yu-Sheng Li, **Wei-Lin Chiang**, and Ching-pei Lee.  
+  *International Conference on Machine Learning (ICML), 2020*
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953) [[code](https://github.com/google-research/google-research/tree/master/cluster_gcn), [dataset (Amazon2M)](http://web.cs.ucla.edu/~chohsieh/data/Amazon2M.tar.gz)]  
   **Wei-Lin Chiang**, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, and Cho-Jui Hsieh.  
   *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019 (**Oral**)* [*slides*](https://infwinston.github.io/files/kdd19/slides.pdf), [*poster*](https://infwinston.github.io/files/kdd19/poster.pdf)  
