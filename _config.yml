@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei-Lin Chiang"
 title_separator          : "-"
 name                     : &name "Wei-Lin Chiang"
-description              : &description "PhD student in EECS department at UC Berkeley"
+description              : &description "CS PhD student at UC Berkeley"
 url                      : https://infwinston.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "infwinston.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei-Lin Chiang"
   avatar           : "avatar.jpg"
-  bio              : "PhD student in EECS department at UC Berkeley"
+  bio              : "CS PhD student at UC Berkeley"
   location         :
   employer         :
   pubmed           : 

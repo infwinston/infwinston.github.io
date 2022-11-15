@@ -10,25 +10,49 @@ redirect_from:
 
 Welcome to Wei-Lin Chiang's page!
 
-* I am a first-year PhD student in the UC Berkeley [RISElab](https://rise.cs.berkeley.edu/).
+* I am a CS PhD student in UC Berkeley [Sky Computing Lab](https://sky.cs.berkeley.edu/) (previously [RISElab](https://rise.cs.berkeley.edu/)), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
 * I obtained my bachelor's and Master's degree from National Taiwan University under the supervision of Prof. [Chih-Jen Lin](https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en).
-* My research interests include optimization for machine learning, data mining, scalable ML algorithms and its system design.
-* I enjoy developing ML softwares and I am always happy to learn how it is being used! Email me if you have questions or find [our softwares](#softwares) useful.
+* My research interests include AI systems, Cloud ML, optimization for ML, and scalable ML algorithms. Currently building an intercloud broker system, [SkyPilot](https://github.com/skypilot-org/skypilot), to bring them all together.
+* I enjoy developing open-source ML software and I am always happy to learn how they are being used! Email me if you have questions or find [our projects](#Projects) useful.
 * More details can be found in my [CV](https://infwinston.github.io/files/docs/CV.pdf).
 
 ## Work Experience
 
+- **Intern@Amazon**, *Seattle* (May. 2021 - Aug. 2021)  
+  Contrastive learning for information extraction on the web
 - **Intern@Google Research**, *Mountain View* (Dec. 2018 - Mar. 2019)  
-  Developing efficient algorithms for training large and deep GCN models
+  Efficient algorithms for training large and deep GCN models.  
+  [Cluster-GCN paper](https://arxiv.org/abs/1905.07953), [code](https://github.com/google-research/google-research/tree/master/cluster_gcn)
 - **Intern@Alibaba Group**, *Hangzhou* (July 2017 - Sept. 2017)  
-  Developing distributed ML algorithms on Alibaba’s parameter server ([KunPeng](https://www.kdd.org/kdd2017/papers/view/kunpeng-parameter-server-based-distributed-learning-systems-and-its-applica))
+  Distributed ML algorithms on Alibaba’s parameter server ([KunPeng](https://www.kdd.org/kdd2017/papers/view/kunpeng-parameter-server-based-distributed-learning-systems-and-its-applica))
 - **Intern@Microsoft Research Asia**, *Beijing* (Dec. 2016 - Feb. 2017)  
-  Investigating distributed training methods on deep learning frameworks
+  Distributed training for deep learning frameworks
 - **Intern@Microsoft**, *Redmond* (July 2016 - Oct. 2016)  
-  Developing large-scale ML algorithms on Microsoft’s distributed platform ([REEF](https://reef.apache.org/))
+  Large-scale ML algorithms on Microsoft’s distributed platform ([REEF](https://reef.apache.org/))
+
+## <a name="Projects"></a> Projects
+
+
+- **SkyPilot** ([Project](https://github.com/skypilot-org/skypilot))  
+  SkyPilot is an intercloud broker system for easily and cost-effectively deploying ML workloads on any cloud
+- **Balsa** ([Project](https://github.com/balsa-project/balsa) | [Paper](https://arxiv.org/abs/2201.01441))  
+  Balsa is a ML-based query optimizer, learning to optimize SQL queries by trial-and-error using deep RL and sim-to-real learning
+- **Cluster-GCN** ([Project](https://github.com/google-research/google-research/tree/master/cluster_gcn) | [Paper](https://arxiv.org/abs/1905.07953))  
+  One of the first scalable methods for training large (million-scale) and deep GCN  
+  Achieved state-of-the-art performance on public datasets (e.g., PPI, Reddit)
+- **Distributed LIBLINEAR** ([Project](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/) | [Paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.57))  
+  Distributed extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
+  Developed L1-regularized LR solver for solving large (billion-scale) tasks.
+- **Multi-core LIBLINEAR** ([Project](https://github.com/cjlin1/liblinear) | [Paper](https://dl.acm.org/doi/10.1145/2939672.2939826))  
+  Multi-core extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
+  Developed efficient parallel algorithms for primal and dual solvers
 
 ## Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=87nZphcAAAAJ&hl=en))
 
+
+- [Balsa: Learning a Query Optimizer Without Expert Demonstrations](https://dl.acm.org/doi/10.1145/3514221.3517885)  
+  Zongheng Yang, **Wei-Lin Chiang<sup>+</sup>**, Sifei Luan<sup>+</sup>, Gautam Mittal, Michael Luo, Ion Stoica. (+ equal contribution)  
+  *ACM SIGMOD 2022*
 - [Manifold Identification for Ultimately Communication-Efficient Distributed Optimization](http://www.optimization-online.org/DB_HTML/2020/06/7833.html)  
   Yu-Sheng Li, **Wei-Lin Chiang**, and Ching-pei Lee.  
   *International Conference on Machine Learning (ICML), 2020*
@@ -47,15 +71,3 @@ Welcome to Wei-Lin Chiang's page!
 - [Fast Matrix-vector Multiplications for Large-scale Logistic Regression on Shared-memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_liblinear_icdm.pdf) [[supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp_code.zip). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).]  
   Mu-Chu Lee, **Wei-Lin Chiang**, and Chih-Jen Lin.  
   *IEEE International Conference on Data Mining (ICDM), 2015* [*slides*](https://infwinston.github.io/files/icdm15/slides.pdf)   
-
-## Softwares
-
-- [Cluster-GCN](https://github.com/google-research/google-research/tree/master/cluster_gcn)  
-  TensorFlow implementation of an efficient algorithm for large (million-scale) and deep GCN  
-  Achieved state-of-the-art performance on some public datasets (e.g., PPI, Reddit)
-- [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/)  
-  Distributed extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
-  Developed L1-regularized LR solver for solving large (billion-scale) tasks
-- [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/)  
-  Multi-core extension of a widely-used linear classification package, [LIBLINEAR](https://github.com/cjlin1/liblinear)  
-  Developed efficient parallel algorithms for primal and dual solvers
