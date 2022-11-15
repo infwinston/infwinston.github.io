@@ -19,7 +19,7 @@ Welcome to Wei-Lin Chiang's page!
 ## Work Experience
 
 - **Intern@Amazon**, *Seattle* (May. 2021 - Aug. 2021)  
-  Contrastive learning with Graph Neural Nets for information extraction on the web
+  Contrastive learning for information extraction on semi-structure webpages
 - **Intern@Google Research**, *Mountain View* (Dec. 2018 - Mar. 2019)  
   Efficient algorithms for training large and deep GCN models.  
   [Cluster-GCN paper](https://arxiv.org/abs/1905.07953), [code](https://github.com/google-research/google-research/tree/master/cluster_gcn)
