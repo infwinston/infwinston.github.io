@@ -20,7 +20,7 @@ Welcome to Wei-Lin Chiang's page!
 
 
 - **SkyPilot** ([GitHub](https://github.com/skypilot-org/skypilot) | [Paper](https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng))  
-  SkyPilot is an intercloud broker system for deploying AI workloads on any cloud; all major clouds (AWS/GCP/Azure) support; adopted by 10+ labs and organizations
+  SkyPilot is an open-source intercloud broker system for deploying AI workloads on any cloud; all major clouds (AWS/GCP/Azure) are supported; adopted by 10+ labs and organizations
 - **Vicuna** ([Blog](https://lmsys.org/blog/2023-03-30-vicuna/) | [Demo](https://chat.lmsys.org/) | [Weights](https://github.com/lm-sys/FastChat#vicuna-weights))  
   An open-source chatbot impressing GPT-4 with 90%\* ChatGPT quality; Our demo has served 2 million requests; 400+ models on HuggingFace are based on Vicuna
 - **FastChat / Chatbot Arena** ([GitHub](https://github.com/lm-sys/FastChat) | [Arena](https://chat.lmsys.org/?arena) | [leaderboard](https://chat.lmsys.org/?leaderboard))  
@@ -58,7 +58,7 @@ Welcome to Wei-Lin Chiang's page!
 - [Judging LLM-as-a-judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)   
   Lianmin Zheng<sup>*</sup>, **Wei-Lin Chiang**<sup>*</sup>, Sheng Ying<sup>*</sup>, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhouhan Li, Dacheng Li, Eric Xing, Hao Zhang, Joseph Gonzalez, Ion Stoica (\*equal contribution)  
   In submission to NeurIPS 2023 Dataset and Benchmarks Track  
-- [An Open-Source Chatbot Impressing GPT-4 with 90%<sup>*</sup> ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)  
+- [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%<sup>*</sup> ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)  
   **Wei-Lin Chiang**, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng, Siyuan Zhuang, Yonghao Zhuang, Joseph Gonzalez, Ion Stoica, Eric Xing (alphabetical order)  
   Blog post  
 - Optimizing Spot Instance Savings under Deadlines   
