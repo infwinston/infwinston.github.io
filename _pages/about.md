@@ -12,7 +12,7 @@ Welcome to Wei-Lin Chiang's page!
 
 * I am a CS PhD student in UC Berkeley [Sky Computing Lab](https://sky.cs.berkeley.edu/) (previously [RISElab](https://rise.cs.berkeley.edu/)), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
 * I obtained my bachelor's and master's degree from National Taiwan University under the supervision of Prof. [Chih-Jen Lin](https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en).
-* My research interests include scalable AI systems, cloud computing. Check out our intercloud broker system, [SkyPilot](https://github.com/skypilot-org/skypilot), and LLM chat framework, [FastChat](https://github.com/lm-sys/FastChat) for training, serving, and evaluating LLMs.
+* My research interests include scalable AI systems, cloud computing. Check out our intercloud broker system, [SkyPilot](https://github.com/skypilot-org/skypilot), and [FastChat](https://github.com/lm-sys/FastChat), a chat LLM framework.
 * I enjoy developing open-source ML software and I am always happy to learn how they are being used! Email me if you have questions or find [our projects](#Projects) useful.
 * More details can be found in my [CV](https://infwinston.github.io/files/docs/CV.pdf).
 
