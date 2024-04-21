@@ -18,7 +18,7 @@ Welcome to Wei-Lin Chiang's page!
 ## News
 
 - [**2024.04**] Check out [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/) -- a pipeline to produce LLMs benchmark from live data.
-- [**2024.04**] Chatbot Arena ([chat.lmsys.org](chat.lmsys.org)) has served over 1 million users by March 2024.
+- [**2024.04**] Chatbot Arena ([chat.lmsys.org](chat.lmsys.org)) has served over 1 million users and collected over 700,000 votes by April 2024.
 - [**2024.03**] We've published the technical [report](https://arxiv.org/abs/2403.04132) of Chatbot Arena.
 
 
