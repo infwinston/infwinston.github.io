@@ -23,7 +23,7 @@ Welcome to Wei-Lin Chiang's page!
   Our platform has served millions of users and gathered over 700K user votes; Our LLM [leaderboard](https://chat.lmsys.org/?leaderboard) has been widely cited by AI leaders and researchers including [Jeff Dean](https://twitter.com/JeffDean/status/1750930658900517157), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), [Greg Brockman](https://twitter.com/gdb/status/1725595967045398920), and Stanford HAI [annual report](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf)  
   | [Paper](https://arxiv.org/abs/2403.04132) | [Blog](https://lmsys.org/blog/2023-05-03-arena/) | [Website](https://chat.lmsys.org) |  
 - **FastChat**: a multi-model serving system for large language models  
-  FastChat powers Chatbot Arena and has strong developer community (over 30K [GitHub](https://github.com/lm-sys/FastChat) stars and 200+ contributors) 
+  FastChat is an open-source system powering Chatbot Arena and has gained strong developer community (over 30K [GitHub](https://github.com/lm-sys/FastChat) stars and 200+ contributors) 
 - **LLM Judge**: model-based evaluation for LLM chatbots  
   Our LLM benchmark [MT-Bench](https://huggingface.co/spaces/lmsys/mt-bench) has been widely adopted by leading model developers (e.g., [Mistral](https://mistral.ai/news/mixtral-of-experts/), [HuggingFace](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)) and recently upgraded to [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/)  
   | [Paper](https://arxiv.org/abs/2306.05685) | [Code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |  
