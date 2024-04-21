@@ -34,7 +34,7 @@ Welcome to Wei-Lin Chiang's page!
 - **LLM Judge**: model-based evaluation for LLM chatbots  
   Our LLM benchmark [MT-Bench](https://huggingface.co/spaces/lmsys/mt-bench) has been widely adopted by leading model developers (e.g., [Mistral](https://mistral.ai/news/mixtral-of-experts/), [HuggingFace](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)) and recently upgraded to [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/)  
   | [Paper](https://arxiv.org/abs/2306.05685) | [Code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |  
-- **Vicuna**: one of the first open-weight models demonstrating multi-turn ChatGPT capability  
+- **Vicuna**: one of the first open LLMs demonstrating multi-turn ChatGPT capability  
   The model has received over 5 million downloads and 1000+ citations   
   | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/) | [Weights](https://github.com/lm-sys/FastChat#vicuna-weights) |
 - **SkyPilot**: An intercloud system for running AI and Batch jobs on any cloud  
