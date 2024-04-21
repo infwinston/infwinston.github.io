@@ -53,48 +53,48 @@ Welcome to Wei-Lin Chiang's page!
 
 ## Publications (full list on [Google Scholar](https://scholar.google.com/citations?user=87nZphcAAAAJ&hl=en))
 
-- [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)  
+1. [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)  
   **Wei-Lin Chiang**<sup>*</sup>, Lianmin Zheng<sup>*</sup>, Sheng Ying, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, Ion Stoica  (\*equal contribution)  
   arXiv preprint
-- [LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset](https://arxiv.org/abs/2309.11998)  
+1. [LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset](https://arxiv.org/abs/2309.11998)  
   Lianmin Zheng<sup>*</sup>, **Wei-Lin Chiang**<sup>*</sup>, Ying Sheng, Tianle Li, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zhuohan Li, Zi Lin, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  (\*equal contribution)  
   ICLR 2024
-- [Llm-assisted code cleaning for training accurate code generators](https://arxiv.org/abs/2311.14904)  
+3. [Llm-assisted code cleaning for training accurate code generators](https://arxiv.org/abs/2311.14904)  
   Naman Jain, Tianjun Zhang, **Wei-Lin Chiang**, Joseph E. Gonzalez, Koushik Sen, Ion Stoica  
   *ICLR 2024*
-- [Rethinking benchmark and contamination for language models with rephrased samples](https://arxiv.org/abs/2311.04850)
+4. [Rethinking benchmark and contamination for language models with rephrased samples](https://arxiv.org/abs/2311.04850)
   Shuo Yang<sup>*</sup>, **Wei-Lin Chiang<sup>*</sup>**, Lianmin Zheng<sup>*</sup>, Joseph E. Gonzalez, Ion Stoica  (\*equal contribution)  
   arXiv preprint
-- [Judging LLM-as-a-judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)   
+5. [Judging LLM-as-a-judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)   
   Lianmin Zheng<sup>*</sup>, **Wei-Lin Chiang**<sup>*</sup>, Sheng Ying<sup>*</sup>, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhouhan Li, Dacheng Li, Eric Xing, Hao Zhang, Joseph Gonzalez, Ion Stoica (\*equal contribution)  
   NeurIPS 2023 Dataset and Benchmarks Track  
-- [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%<sup>*</sup> ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)  
+6. [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%<sup>*</sup> ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)  
   **Wei-Lin Chiang**, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng, Siyuan Zhuang, Yonghao Zhuang, Joseph Gonzalez, Ion Stoica, Eric Xing (alphabetical order)  
   Blogpost [model weights](https://github.com/lm-sys/FastChat#vicuna-weights)
-- [Can’t Be Late: Optimizing Spot Instance Savings under Deadlines](https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf)   
+7. [Can’t Be Late: Optimizing Spot Instance Savings under Deadlines](https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf)   
   Zhanghao Wu, **Wei-Lin Chiang**, Zongheng Yang, Eric Friedman, Scott Shenker, Ion Stoica.  
   *NSDI 2024* (**Outstanding Paper Award**)
-- [SkyPilot: An Intercloud Broker for Sky Computing](https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng)   
+8. [SkyPilot: An Intercloud Broker for Sky Computing](https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng)   
   Zongheng Yang, Zhanghao Wu, Michael Luo, **Wei-Lin Chiang**, Romil Bhardwaj, Woosuk Kwon, Siyuan Zhuang, Frank Sifei Luan, Gautam Mittal, Scott Shenker, Ion Stoica  
   *USENIX NSDI 2023*
-- [Balsa: Learning a Query Optimizer Without Expert Demonstrations](https://dl.acm.org/doi/10.1145/3514221.3517885)  
+9. [Balsa: Learning a Query Optimizer Without Expert Demonstrations](https://dl.acm.org/doi/10.1145/3514221.3517885)  
   Zongheng Yang, **Wei-Lin Chiang<sup>+</sup>**, Sifei Luan<sup>+</sup>, Gautam Mittal, Michael Luo, Ion Stoica. (+ equal contribution)  
   *ACM SIGMOD 2022*
-- [Manifold Identification for Ultimately Communication-Efficient Distributed Optimization](http://www.optimization-online.org/DB_HTML/2020/06/7833.html)  
+10. [Manifold Identification for Ultimately Communication-Efficient Distributed Optimization](http://www.optimization-online.org/DB_HTML/2020/06/7833.html)  
   Yu-Sheng Li, **Wei-Lin Chiang**, and Ching-pei Lee.  
   *International Conference on Machine Learning (ICML), 2020*
-- [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953) [[code](https://github.com/google-research/google-research/tree/master/cluster_gcn), [dataset (Amazon2M)](http://web.cs.ucla.edu/~chohsieh/data/Amazon2M.tar.gz)]  
+11. [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1905.07953) [[code](https://github.com/google-research/google-research/tree/master/cluster_gcn), [dataset (Amazon2M)](http://web.cs.ucla.edu/~chohsieh/data/Amazon2M.tar.gz)]  
   **Wei-Lin Chiang**, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, and Cho-Jui Hsieh.  
   *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019 (**Oral**)* [*slides*](https://infwinston.github.io/files/kdd19/slides.pdf), [*poster*](https://infwinston.github.io/files/kdd19/poster.pdf)  
-- [Preconditioned Conjugate Gradient Methods in Truncated Newton Frameworks for Large-scale Linear Classification](http://proceedings.mlr.press/v95/hsia18a.html) [[supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/tron_pcg/). Implementation available in [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) after version 2.20.]  
+12. [Preconditioned Conjugate Gradient Methods in Truncated Newton Frameworks for Large-scale Linear Classification](http://proceedings.mlr.press/v95/hsia18a.html) [[supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/tron_pcg/). Implementation available in [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) after version 2.20.]  
   Chih-Yang Hsia, **Wei-Lin Chiang**, and Chih-Jen Lin.  
   *Asian Conference on Machine Learning (ACML), 2018 (**Best paper award**)* [*slides*](https://infwinston.github.io/files/acml18/slides.pdf), [*poster*](https://infwinston.github.io/files/acml18/poster.pdf)    
-- [Limited-memory Common-directions Method for Distributed L1-regularized Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/OWL-commdir.pdf) [[supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/). Implementation available in [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/).]  
+13. [Limited-memory Common-directions Method for Distributed L1-regularized Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/OWL-commdir.pdf) [[supplement & code](https://www.csie.ntu.edu.tw/~cjlin/papers/l-commdir-l1/). Implementation available in [Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/).]  
   **Wei-Lin Chiang**, Yu-Sheng Li, Ching-pei Lee, and Chih-Jen Lin.  
   *SIAM International Conference on Data Mining (SDM), 2018* [*slides*](https://infwinston.github.io/files/sdm18/slides.pdf), [*poster*](https://infwinston.github.io/files/sdm18/poster.pdf)   
-- [Parallel Dual Coordinate Descent Method for Large-scale Linear Classification in Multi-core Environments](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_cddual.pdf) [[supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/multicore_cddual_supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp-code.tar.gz). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).]  
+14. [Parallel Dual Coordinate Descent Method for Large-scale Linear Classification in Multi-core Environments](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_cddual.pdf) [[supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/multicore_cddual_supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp-code.tar.gz). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).]  
   **Wei-Lin Chiang**, Mu-Chu Lee, and Chih-Jen Lin.  
   *ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2016* [*poster*](https://infwinston.github.io/files/kdd16/poster.pdf)   
-- [Fast Matrix-vector Multiplications for Large-scale Logistic Regression on Shared-memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_liblinear_icdm.pdf) [[supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp_code.zip). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).]  
+15. [Fast Matrix-vector Multiplications for Large-scale Logistic Regression on Shared-memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/multicore_liblinear_icdm.pdf) [[supplement](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/supplement.pdf), [code](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/exp_code.zip). Implementation available in [Multi-core LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/).]  
   Mu-Chu Lee, **Wei-Lin Chiang**, and Chih-Jen Lin.  
   *IEEE International Conference on Data Mining (ICDM), 2015* [*slides*](https://infwinston.github.io/files/icdm15/slides.pdf)   
