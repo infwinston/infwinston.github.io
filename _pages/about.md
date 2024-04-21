@@ -60,21 +60,21 @@ Welcome to Wei-Lin Chiang's page!
 ## Publications (full list on [Google Scholar](https://scholar.google.com/citations?user=87nZphcAAAAJ&hl=en))
 
 1. [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)  
-  **Wei-Lin Chiang**<sup>*</sup>, Lianmin Zheng<sup>*</sup>, Sheng Ying, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, Ion Stoica  (\*equal contribution)  
+  **Wei-Lin Chiang\***, Lianmin Zheng\*, Sheng Ying, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, Ion Stoica  (\*equal contribution)  
   arXiv preprint
 1. [LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset](https://arxiv.org/abs/2309.11998)  
-  Lianmin Zheng<sup>*</sup>, **Wei-Lin Chiang**<sup>*</sup>, Ying Sheng, Tianle Li, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zhuohan Li, Zi Lin, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  (\*equal contribution)  
+  Lianmin Zheng\*, **Wei-Lin Chiang\***, Ying Sheng, Tianle Li, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zhuohan Li, Zi Lin, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  (\*equal contribution)  
   ICLR 2024
 3. [Llm-assisted code cleaning for training accurate code generators](https://arxiv.org/abs/2311.14904)  
   Naman Jain, Tianjun Zhang, **Wei-Lin Chiang**, Joseph E. Gonzalez, Koushik Sen, Ion Stoica  
   *ICLR 2024*
 4. [Rethinking benchmark and contamination for language models with rephrased samples](https://arxiv.org/abs/2311.04850)
-  Shuo Yang<sup>*</sup>, **Wei-Lin Chiang<sup>*</sup>**, Lianmin Zheng<sup>*</sup>, Joseph E. Gonzalez, Ion Stoica  (\*equal contribution)  
+  Shuo Yang\*, **Wei-Lin Chiang\***, Lianmin Zheng\*, Joseph E. Gonzalez, Ion Stoica  (\*equal contribution)  
   arXiv preprint
 5. [Judging LLM-as-a-judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)   
-  Lianmin Zheng<sup>*</sup>, **Wei-Lin Chiang**<sup>*</sup>, Sheng Ying<sup>*</sup>, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhouhan Li, Dacheng Li, Eric Xing, Hao Zhang, Joseph Gonzalez, Ion Stoica (\*equal contribution)  
+  Lianmin Zheng\*, **Wei-Lin Chiang\***, Sheng Ying\*, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhouhan Li, Dacheng Li, Eric Xing, Hao Zhang, Joseph Gonzalez, Ion Stoica (\*equal contribution)  
   NeurIPS 2023 Dataset and Benchmarks Track  
-6. [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%<sup>*</sup> ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)  
+6. [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)  
   **Wei-Lin Chiang**, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng, Siyuan Zhuang, Yonghao Zhuang, Joseph Gonzalez, Ion Stoica, Eric Xing (alphabetical order)  
   Blogpost [model weights](https://github.com/lm-sys/FastChat#vicuna-weights)
 7. [Can’t Be Late: Optimizing Spot Instance Savings under Deadlines](https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf)   
