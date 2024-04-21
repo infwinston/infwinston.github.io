@@ -11,7 +11,7 @@ redirect_from:
 Welcome to Wei-Lin Chiang's page!
 
 * I am a CS PhD student at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
-* My research focus on building evaluation system for large language models. I'm currently co-leading the [Chatbot Arena](https://chat.lmsys.org/?about) project at [LMSYS.org](https://lmsys.org).
+* My research focus on building evaluation system for large language models. I'm currently co-leading the [Chatbot Arena](https://chat.lmsys.org/?about) project at [LMSYS.org](https://twitter.com/lmsysorg).
 * I am honored to receive the a16z [Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) for our works in [Chatbot Arena](https://arxiv.org/abs/2403.04132), [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/), and [FastChat](https://github.com/lm-sys/FastChat).
 * Check out our works at [LMSYS.org](https://lmsys.org) in advancing open LLM research! or find my random thoughts on [X](https://twitter.com/infwinston) :)
 
