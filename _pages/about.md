@@ -17,10 +17,8 @@ Welcome to Wei-Lin Chiang's page!
 
 ## News
 
-- [**2024.05**] Coming trip to ICLR at Vienna to present our work [LMSYS-Chat-1M](https://arxiv.org/abs/2309.11998). Hit me up if you're around!
-- [**2024.04**] I'll be giving a talk at the [Berkeley LLM Meetup](https://lu.ma/berkeleyllm?tk=4IlQCz).
 - [**2024.04**] New blog: [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/) -- a pipeline to produce LLMs benchmark from live data.
-- [**2024.04**] Chatbot Arena ([chat.lmsys.org](chat.lmsys.org)) has served over 1 million users and collected over 700,000 user votes!
+- [**2024.04**] I'll be giving a talk at the [Berkeley LLM Meetup](https://lu.ma/berkeleyllm?tk=4IlQCz).
 - [**2024.03**] We've published the technical [report](https://arxiv.org/abs/2403.04132) of Chatbot Arena.
 
 ## <a name="Projects"></a> Projects
