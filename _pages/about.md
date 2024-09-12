@@ -26,7 +26,7 @@ Welcome to Wei-Lin Chiang's page!
 ## <a name="Projects"></a> Projects
 
 - **Chatbot Arena**: A Crowdsourced AI Evaluation Platform
-  Our website has served millions of users, collecting over one million user votes for the [leaderboard](https://lmarena.ai/leaderboard); We are honored to be recognized by industry leaders and researchers including [Jeff Dean](https://twitter.com/JeffDean/status/1750930658900517157), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), and [Greg Brockman](https://twitter.com/gdb/status/1725595967045398920).  
+  Our website has served millions of users, collecting over one million user votes for the [leaderboard](https://lmarena.ai/leaderboard); We are honored to be recognized by industry leaders and researchers including [Jeff Dean](https://x.com/JeffDean/status/1819121162578022849), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), and [Greg Brockman](https://twitter.com/gdb/status/1725595967045398920).  
   | [Paper](https://arxiv.org/abs/2403.04132) | [Blog](https://lmsys.org/blog/2023-05-03-arena/) | [Website](https://chat.lmsys.org) |
 - **LLM Judge**: Automating LLM Evaluation   
   We are developing automated evaluation for LLMs, such as [MT-Bench](https://arxiv.org/abs/2306.05685) and [Arena-Hard](https://github.com/lm-sys/arena-hard-auto) benchmarks.  
