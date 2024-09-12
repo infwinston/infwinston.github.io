@@ -17,7 +17,7 @@ Welcome to Wei-Lin Chiang's page!
 ## News
 
 - [**2024.09**] Launched: [RedTeam Arena](https://x.com/lmsysorg/status/1832201335175049434)
-- [**2024.08**] New blog post: decoupling style and substance in Chatbot Arena [link](https://lmsys.org/blog/2024-08-28-style-control/)
+- [**2024.08**] New [blog post](https://lmsys.org/blog/2024-08-28-style-control/): decoupling style and substance in Chatbot Arena
 - [**2024.06**] Launched: [Multimodal Arena](https://lmsys.org/blog/2024-06-27-multimodal/) 
 - [**2024.05**] We hosted a [Kaggle competition](https://www.kaggle.com/competitions/lmsys-chatbot-arena) for human preference prediction
 - [**2024.04**] [Arena Hard](https://github.com/lm-sys/arena-hard-auto) and [BenchBuilder](https://arxiv.org/abs/2406.11939): a data curation pipeline for LLMs benchmarks
