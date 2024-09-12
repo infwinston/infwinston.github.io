@@ -10,36 +10,36 @@ redirect_from:
 
 Welcome to Wei-Lin Chiang's page!
 
-* I am a CS PhD student at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
-* My research focus on building evaluation system for large language models. I'm currently co-leading the [Chatbot Arena](https://chat.lmsys.org/?about) project, a live LLM leaderboard at [LMSYS.org](https://twitter.com/lmsysorg).
-* I am honored to receive the a16z [Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/) for our works in [Chatbot Arena](https://arxiv.org/abs/2403.04132), [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/), and [FastChat](https://github.com/lm-sys/FastChat).
-* Check out our works at [LMSYS.org](https://lmsys.org) in advancing open LLM research! Or find my random thoughts on [X](https://twitter.com/infwinston) :)
+* I am a PhD student at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
+* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [LMSYS.org](https://twitter.com/lmsysorg).
+* Our work on [Chatbot Arena](https://arxiv.org/abs/2403.04132), [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/), and [FastChat](https://github.com/lm-sys/FastChat) has been recognized with an a16z Open Source AI Grant. Check out our blogs at [LMSYS.org](https://lmsys.org) or follow our updates on [X](https://x.com/lmsysorg).
 
 ## News
 
-- [**2024.04**] New blog: [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/) -- a pipeline to produce LLMs benchmark from live data.
-- [**2024.04**] I'll be giving a talk at the [Berkeley LLM Meetup](https://lu.ma/berkeleyllm?tk=4IlQCz).
-- [**2024.03**] We've published the technical [report](https://arxiv.org/abs/2403.04132) of Chatbot Arena.
+- [**2024.09**] Launched: [RedTeam Arena](https://x.com/lmsysorg/status/1832201335175049434)
+- [**2024.08**] New blog post: decoupling style and substance in Chatbot Arena [link](https://lmsys.org/blog/2024-08-28-style-control/)
+- [**2024.06**] Launched: [Multimodal Arena](https://lmsys.org/blog/2024-06-27-multimodal/) 
+- [**2024.05**] We hosted a [Kaggle competition](https://www.kaggle.com/competitions/lmsys-chatbot-arena) for human preference prediction
+- [**2024.04**] [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/): a data curation pipeline for LLMs benchmarks
+- [**2024.03**] Released: technical [report](https://arxiv.org/abs/2403.04132) on Chatbot Arena
 
 ## <a name="Projects"></a> Projects
 
-
-- **Chatbot Arena**: a live platform for evaluating LLMs by human preference  
-  Our platform has served millions of users and gathered over 700K user votes; Our LLM [leaderboard](https://chat.lmsys.org/?leaderboard) has been widely cited by AI leaders and researchers including [Jeff Dean](https://twitter.com/JeffDean/status/1750930658900517157), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), [Greg Brockman](https://twitter.com/gdb/status/1725595967045398920), and Stanford HAI [annual report](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf)  
-  | [Paper](https://arxiv.org/abs/2403.04132) | [Blog](https://lmsys.org/blog/2023-05-03-arena/) | [Website](https://chat.lmsys.org) |  
-- **FastChat**: a multi-model serving system for large language models  
-  FastChat is an open-source system powering Chatbot Arena and has gained strong developer community (over 30K [GitHub](https://github.com/lm-sys/FastChat) stars and 200+ contributors) 
-- **LLM Judge**: model-based evaluation for LLM chatbots  
-  Our LLM benchmark [MT-Bench](https://huggingface.co/spaces/lmsys/mt-bench) has been widely adopted by leading model developers (e.g., [Mistral](https://mistral.ai/news/mixtral-of-experts/), [HuggingFace](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)) and recently upgraded to [Arena Hard](https://lmsys.org/blog/2024-04-19-arena-hard/)  
+- **Chatbot Arena**: A Crowdsourced AI Evaluation Platform
+  Our website has served millions of users, collecting over one million user votes for the [leaderboard](https://lmarena.ai/leaderboard); We are honored to be recognized by industry leaders and researchers including [Jeff Dean](https://twitter.com/JeffDean/status/1750930658900517157), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), and [Greg Brockman](https://twitter.com/gdb/status/1725595967045398920).  
+  | [Paper](https://arxiv.org/abs/2403.04132) | [Blog](https://lmsys.org/blog/2023-05-03-arena/) | [Website](https://chat.lmsys.org) |
+- **LLM Judge**: Automating LLM Evaluation   
+  We are developing automated evaluation for LLMs, such as [MT-Bench](https://arxiv.org/abs/2306.05685) and [Arena-Hard](https://github.com/lm-sys/arena-hard-auto) benchmarks.  
   | [Paper](https://arxiv.org/abs/2306.05685) | [Code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |  
-- **Vicuna**: one of the first open LLMs demonstrating multi-turn ChatGPT capability  
-  The model has received over 5 million downloads and 1000+ citations   
+- **FastChat**: Multi-Model Serving Framework    
+  FastChat is an open-source system powering Chatbot Arena and has gained strong developer community (over 30K [GitHub](https://github.com/lm-sys/FastChat) stars and 200+ contributors) 
+- **Vicuna**: high-quality LLM chatbot   
+  Vicuna has been downloaded over 8 million times with 1000+ citations.    
   | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/) | [Weights](https://github.com/lm-sys/FastChat#vicuna-weights) |
-- **SkyPilot**: An intercloud system for running AI and Batch jobs on any cloud  
-  Support 10+ major clouds; adopted by leading AI startups such as [Mistral](https://docs.mistral.ai/deployment/self-deployment/skypilot/), [Covariant](https://blog.skypilot.co/covariant/)   
+- **SkyPilot**: An Intercloud System for AI and Batch Jobs   
   | [GitHub](https://github.com/skypilot-org/skypilot) | [Paper](https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng) |
-- **Cluster-GCN**: one of the first scalable methods for training large and deep GNNs  
-  Our method has been widely adopted in academia and industry (see [DGL](https://docs.dgl.ai/en/0.8.x/generated/dgl.dataloading.ClusterGCNSampler.html), [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.ClusterGCNConv.html) integration, [Stanford CS224W](https://web.stanford.edu/class/cs224w/slides/15-scalable.pdf))  
+- **Cluster-GCN**: Scalable Training for Large GNNs   
+  Widely integrated into platforms like [DGL](https://docs.dgl.ai/en/0.8.x/generated/dgl.dataloading.ClusterGCNSampler.html), [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.ClusterGCNConv.html)    
   | [GitHub](https://github.com/google-research/google-research/tree/master/cluster_gcn) | [Paper](https://arxiv.org/abs/1905.07953) |
 
 ## Work Experience
@@ -47,7 +47,7 @@ Welcome to Wei-Lin Chiang's page!
 - **Intern@Amazon**, *Seattle* (May. 2021 - Aug. 2021)  
   Contrastive learning for information extraction on semi-structure webpages
 - **Intern@Google Research**, *Mountain View* (Dec. 2018 - Mar. 2019)  
-  Efficient algorithms for training large and deep GCN models.  
+  Developed algorithms for training large and deep GCN models.  
   [Cluster-GCN paper](https://arxiv.org/abs/1905.07953), [code](https://github.com/google-research/google-research/tree/master/cluster_gcn)
 - **Intern@Alibaba Group**, *Hangzhou* (July 2017 - Sept. 2017)  
   Distributed ML algorithms on Alibaba’s parameter server ([KunPeng](https://www.kdd.org/kdd2017/papers/view/kunpeng-parameter-server-based-distributed-learning-systems-and-its-applica))
