@@ -11,14 +11,14 @@ redirect_from:
 Welcome to Wei-Lin Chiang's page!
 
 * I am a PhD student at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
-* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [LMArena](https://x.com/lmarena_ai).
+* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [LMArena](https://x.com/lmarena_ai) (formerly LMSYS.org).
 * We are fortunate to receive open source grants by [a16z](https://a16z.com/announcing-our-latest-open-source-ai-grants/) and [Sequoia](https://www.sequoiacap.com/article/building-the-future-meet-the-2024-sequoia-open-source-fellows/). Check out our blogs at [LMArena](https://blog.lmarena.ai) or follow our updates on [X](https://x.com/lmarena_ai).
 
 ## News
 
-- [**2024.12**] New Launch: [Text-to-image Arena](https://x.com/lmarena_ai/status/1867302006182097206)
-- [**2024.12**] New Launch: [WebDev Arena](https://web.lmarena.ai/leaderboard): evaluating AI in web development.
-- [**2024.09**] New Launch: [RedTeam Arena](https://x.com/lmsysorg/status/1832201335175049434)
+- [**2024.12**] [Text-to-image Arena](https://x.com/lmarena_ai/status/1867302006182097206): evaluating text-to-image models in the wild.
+- [**2024.12**] [WebDev Arena](https://web.lmarena.ai/leaderboard): evaluating AI in real-world web app development.
+- [**2024.09**] [RedTeam Arena](https://x.com/lmsysorg/status/1832201335175049434): A Community-driven Jailbreaking Platform
 - [**2024.08**] New [blog post](https://lmsys.org/blog/2024-08-28-style-control/): decoupling style and substance in Chatbot Arena
 - [**2024.06**] Launched: [Multimodal Arena](https://lmsys.org/blog/2024-06-27-multimodal/) 
 - [**2024.05**] We hosted a [Kaggle competition](https://www.kaggle.com/competitions/lmsys-chatbot-arena) for human preference prediction
