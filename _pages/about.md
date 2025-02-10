@@ -11,12 +11,14 @@ redirect_from:
 Welcome to Wei-Lin Chiang's page!
 
 * I am a PhD student at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
-* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [LMSYS.org](https://twitter.com/lmsysorg).
-* Our work on [Chatbot Arena](https://arxiv.org/abs/2403.04132), [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/), and [FastChat](https://github.com/lm-sys/FastChat) has been recognized with an a16z Open Source AI Grant. Check out our blogs at [LMSYS.org](https://lmsys.org) or follow our updates on [X](https://x.com/lmsysorg).
+* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [LMArena](https://x.com/lmarena_ai).
+* We are fortunate to receive open source grants by [a16z](https://a16z.com/announcing-our-latest-open-source-ai-grants/) and [Sequoia](https://www.sequoiacap.com/article/building-the-future-meet-the-2024-sequoia-open-source-fellows/). Check out our blogs at [LMArena](https://blog.lmarena.ai) or follow our updates on [X](https://x.com/lmarena_ai).
 
 ## News
 
-- [**2024.09**] Launched: [RedTeam Arena](https://x.com/lmsysorg/status/1832201335175049434)
+- [**2024.12**] New Launch: [Text-to-image Arena](https://x.com/lmarena_ai/status/1867302006182097206)
+- [**2024.12**] New Launch: [WebDev Arena](https://web.lmarena.ai/leaderboard): evaluating AI in web development.
+- [**2024.09**] New Launch: [RedTeam Arena](https://x.com/lmsysorg/status/1832201335175049434)
 - [**2024.08**] New [blog post](https://lmsys.org/blog/2024-08-28-style-control/): decoupling style and substance in Chatbot Arena
 - [**2024.06**] Launched: [Multimodal Arena](https://lmsys.org/blog/2024-06-27-multimodal/) 
 - [**2024.05**] We hosted a [Kaggle competition](https://www.kaggle.com/competitions/lmsys-chatbot-arena) for human preference prediction
@@ -25,9 +27,9 @@ Welcome to Wei-Lin Chiang's page!
 
 ## <a name="Projects"></a> Projects
 
-- **Chatbot Arena**: A Crowdsourced AI Evaluation Platform   
-  Our website has served millions of users, collecting over one million user votes for the [leaderboard](https://lmarena.ai/leaderboard); We are honored to be recognized by industry leaders and researchers including [Jeff Dean](https://x.com/JeffDean/status/1819121162578022849), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), and [Greg Brockman](https://twitter.com/gdb/status/1725595967045398920).  
-  | [Paper](https://arxiv.org/abs/2403.04132) | [Blog](https://lmsys.org/blog/2023-05-03-arena/) | [Website](https://chat.lmsys.org) |
+- **Chatbot Arena**: An Open Platform for Crowdsourced AI Benchmarking   
+  Our website has served millions of users, collecting over 2.5 million user votes for the [leaderboard](https://lmarena.ai/leaderboard); We are honored to be recognized by industry leaders and researchers including [Jeff Dean](https://x.com/JeffDean/status/1819121162578022849), [Andrej Karpathy](https://twitter.com/karpathy/status/1734687074350166089), and [Sam Altman](https://x.com/sama/status/1815877987696533897).  
+  | [Paper](https://arxiv.org/abs/2403.04132) | [Blog](https://blog.lmarena.ai/blog/2023/arena/) | [Website](https://lmarena.ai) |
 - **LLM Judge**: Automating LLM Evaluation   
   We are developing automated evaluation for LLMs, such as [MT-Bench](https://arxiv.org/abs/2306.05685) and [Arena-Hard](https://github.com/lm-sys/arena-hard-auto) benchmarks.  
   | [Paper](https://arxiv.org/abs/2306.05685) | [Code](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |  
