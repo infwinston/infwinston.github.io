@@ -11,8 +11,8 @@ redirect_from:
 Welcome to Wei-Lin Chiang's page!
 
 * I am a PhD student at UC Berkeley [SkyLab](https://sky.cs.berkeley.edu/), working with Prof. [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/).
-* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [LMArena](https://x.com/lmarena_ai) (formerly LMSYS.org).
-* We are fortunate to receive open source grants by [a16z](https://a16z.com/announcing-our-latest-open-source-ai-grants/) and [Sequoia](https://www.sequoiacap.com/article/building-the-future-meet-the-2024-sequoia-open-source-fellows/). Check out our blogs at [LMArena](https://blog.lmarena.ai) or follow our updates on [X](https://x.com/lmarena_ai).
+* My research focuses on building evaluation systems for AI. I'm currently working on [Chatbot Arena](https://lmarena.ai/?about) project, a crowdsourced AI evaluation platform at [Arena](https://x.com/arena) (formerly LMArena / LMSYS.org).
+* We are fortunate to receive open source grants by [a16z](https://a16z.com/announcing-our-latest-open-source-ai-grants/) and [Sequoia](https://www.sequoiacap.com/article/building-the-future-meet-the-2024-sequoia-open-source-fellows/). Check out our blogs at [Arena](https://blog.lmarena.ai) or follow our updates on [X](https://x.com/arena).
 
 ## News
 
